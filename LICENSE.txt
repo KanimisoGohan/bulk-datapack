@@ -1,0 +1,94 @@
+## License Summary / ライセンス要約
+
+### 日本語
+- 制作者：**かにみそごはん**
+- クレジット表記必須
+- サーバー導入・動画/配信での使用OK
+- サーバーの寄付・投げ銭OK
+- 改変OK（改変済みであることを明記）
+- 再配布禁止
+- 商用利用は事前連絡必須（gohankanimiso@gmail.com）
+
+### English
+- Creator: **Kanimiso Gohan (かにみそごはん)**
+- Credit required
+- Allowed for server use and videos/streams
+- Server donations and tips are allowed
+- Modifications allowed (must be stated)
+- Redistribution prohibited
+- Commercial use requires prior contact (gohankanimiso@gmail.com)
+
+
+# License / ライセンス
+
+## 日本語
+
+本データパック（以下「本作品」）は、以下の条件を守る場合に限り利用できます。
+
+### 1. 利用範囲
+以下の利用は **許可されています**。
+- 個人利用（シングルプレイを含む）
+- Minecraftサーバーへの導入・運用
+- 動画投稿・配信等での使用（YouTube / Twitch 等を含む）
+
+※いずれの場合も、下記のクレジット表記を必ず行ってください。
+
+### 2. クレジット表記
+本作品を利用・紹介する場合、**必ず制作者名を分かりやすい形で記載・表示してください。**  
+（例：README、配布ページ、動画説明欄、ゲーム内クレジット等）
+
+### 3. 改変について
+- 本作品に含まれるコードは、**改変・修正することが可能**です。
+- 改変した状態で利用する場合は、**改変済みであることを必ず明記してください。**
+
+### 4. 再配布について
+**本作品の再配布（改変の有無を問わず）は禁止します。**  
+再配布を希望する場合は、事前に制作者へご相談ください。
+
+### 5. 商用利用について
+本作品の**商用利用（収益化を伴う利用を含む）を行う場合は、必ず事前に制作者へ連絡してください。**  
+無断での商用利用は禁止します。
+
+連絡先：  
+gohankanimiso@gmail.com
+
+### 6. 免責事項
+本作品の利用によって発生したいかなる損害についても、制作者は責任を負いません。  
+すべて自己責任でご利用ください。
+
+---
+
+## English
+
+This datapack (hereinafter referred to as "the Work") may be used only under the following conditions.
+
+### 1. Permitted Use
+The following uses are **explicitly permitted**:
+- Personal use (including single-player)
+- Use on Minecraft servers
+- Use in videos and livestreams (including YouTube, Twitch, etc.)
+
+In all cases, proper credit as described below is required.
+
+### 2. Credit
+When using or showcasing the Work, **you must clearly credit the creator.**  
+(e.g. README files, distribution pages, video descriptions, in-game credits, etc.)
+
+### 3. Modification
+- The code included in the Work **may be modified or adjusted**.
+- If the Work is used in a modified form, **you must clearly state that it has been modified.**
+
+### 4. Redistribution
+**Redistribution of the Work is strictly prohibited, whether modified or unmodified.**  
+If you wish to redistribute it, please contact the creator in advance.
+
+### 5. Commercial Use
+**Any commercial use (including monetized content)** requires prior contact with the creator.  
+Unauthorized commercial use is prohibited.
+
+Contact:  
+gohankanimiso@gmail.com
+
+### 6. Disclaimer
+The creator is not responsible for any damages arising from the use of the Work.  
+Use at your own risk.
